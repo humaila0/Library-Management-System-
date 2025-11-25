@@ -1,6 +1,5 @@
 # Library Management System (Tkinter GUI)
 
-Repository: humaila/library-management-system
 
 Description: Library Management System — a simple desktop GUI app (Tkinter) that lets you add books, request multiple books (FCFS queue), and process requests. Useful as a small demo or teaching project for Python GUIs and basic queue-based scheduling.
 
