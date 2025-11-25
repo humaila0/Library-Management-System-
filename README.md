@@ -44,6 +44,3 @@ Notes
 License
 - MIT License (see LICENSE file)
 
-If you want, I can:
-- Create the GitHub repository for you (I’ll need permission or the repository details and whether it should be public or private).
-- Open a Pull Request to add tests, packaging, or convert into a pip-installable project.
